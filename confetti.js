@@ -47,7 +47,7 @@ function confetti() {
 		if (canvas === null) {
 			canvas = document.createElement("canvas");
 			canvas.setAttribute("id", "confetti-canvas");
-			canvas.setAttribute("style", "display:block;z-index:999999;pointer-events:none;position:absolute;left:0;top:0;");
+			canvas.setAttribute("style", "display:block;z-index:999999;pointer-events:none;position:fixed;left:0;top:0;");
 			document.body.appendChild(canvas);
 			canvas.width = width;
 			canvas.height = height;

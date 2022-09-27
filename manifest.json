@@ -1,7 +1,7 @@
 {
   "name": "eclass confetti",
   "description": "Display a shower of confetti when submitting assignments and quiz",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 3,
   "content_scripts" : [
     {
