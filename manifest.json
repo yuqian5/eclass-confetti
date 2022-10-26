@@ -1,8 +1,14 @@
 {
-  "name": "eclass confetti",
+  "name": "eClass confetti",
   "description": "Display a shower of confetti when submitting assignments and quiz",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest_version": 3,
+  "default_title": "eClass confetti",
+  "default_popup": "popup/popup.html",
+  "action": {
+    "default_title": "eClass confetti",
+    "default_popup": "popup/popup.html"
+  },
   "content_scripts" : [
     {
       "matches" : [
@@ -13,5 +19,11 @@
   ],
   "background": {
     "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "res/icon/16x16.png",
+    "32": "res/icon/32x32.png",
+    "192": "res/icon/192x192.png",
+    "512": "res/icon/512x512.png"
   }
 }
