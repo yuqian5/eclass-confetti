@@ -3,8 +3,6 @@
   "description": "Display a shower of confetti when submitting assignments and quiz",
   "version": "0.0.4",
   "manifest_version": 3,
-  "default_title": "eClass confetti",
-  "default_popup": "popup/popup.html",
   "action": {
     "default_title": "eClass confetti",
     "default_popup": "popup/popup.html"
