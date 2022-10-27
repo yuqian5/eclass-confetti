@@ -8,7 +8,10 @@ for (let i = 0; i < buttons.length; i++) {
             if (!triggered) {
                 e.preventDefault();
                 startConfetti();
-                setTimeout(()=>{triggered = true; button.click();}, 4000);
+                setTimeout(() => {
+                    triggered = true;
+                    button.click();
+                }, 4000);
             }
         }
     }
