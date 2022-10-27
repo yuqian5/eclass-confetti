@@ -10,11 +10,11 @@ This extension does not collect any data.
 
 
 ## Listing
-| Platform | Link                                                                                       |
-|----------|--------------------------------------------------------------------------------------------|
-| Chrome   | https://chrome.google.com/webstore/detail/eclass-confetti/noaahpjahcacconhiehjpmacnnjcaake |
-| Firefox  | https://addons.mozilla.org/en-US/firefox/addon/eclass-confetti/                            |
-| Safari   | Coming Soon                                                                                |
+| Platform | Link                                                                                       | Version |
+|----------|--------------------------------------------------------------------------------------------|---------|
+| Chrome   | https://chrome.google.com/webstore/detail/eclass-confetti/noaahpjahcacconhiehjpmacnnjcaake |0.0.4    |
+| Firefox  | https://addons.mozilla.org/en-US/firefox/addon/eclass-confetti/                            |0.0.5    |
+| Safari   | Coming Soon                                                                                |N/A      |
 
 
 ## Contributors
