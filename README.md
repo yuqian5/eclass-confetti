@@ -8,6 +8,15 @@ This extension does not collect any data.
 
 ![](https://cdn.kerrycao.com/images/homepage/projects/eclass-confetti/eclass-confetti-demo.gif)
 
-### Contributors
+
+## Listing
+| Platform | Link                                                                                       |
+|----------|--------------------------------------------------------------------------------------------|
+| Chrome   | https://chrome.google.com/webstore/detail/eclass-confetti/noaahpjahcacconhiehjpmacnnjcaake |
+| Firefox  | https://addons.mozilla.org/en-US/firefox/addon/eclass-confetti/                            |
+| Safari   | Coming Soon                                                                                |
+
+
+## Contributors
 * [Kerry Cao](https://github.com/yuqian5)
 * [Tkalisvaart](https://github.com/Tkalisvaart)
