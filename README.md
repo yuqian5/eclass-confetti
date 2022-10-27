@@ -7,3 +7,7 @@ For file submission, there is a 4 seconds delay from you clicking "Save changes"
 This extension does not collect any data.
 
 ![](https://cdn.kerrycao.com/images/homepage/projects/eclass-confetti/eclass-confetti-demo.gif)
+
+### Contributors
+* [Kerry Cao](https://github.com/yuqian5)
+* [Tkalisvaart](https://github.com/Tkalisvaart)
