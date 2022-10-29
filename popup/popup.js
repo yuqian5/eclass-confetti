@@ -8,7 +8,7 @@ window.onload = function () {
     });
 
     // for chrome, open link in new tab
-    if (browser === "chrome") {
+    if (browser === "chrome" || browser == "safari") {
         window.addEventListener('click', function (e) {
             if (e.target.href !== undefined) {
                 chrome.tabs.create({url: e.target.href})
