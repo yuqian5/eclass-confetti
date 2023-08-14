@@ -20,5 +20,10 @@
     "32": "res/icon/32x32.png",
     "192": "res/icon/192x192.png",
     "512": "res/icon/512x512.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{bb3b0d84-c4be-447a-9322-a3849d81151a}"
+    }
   }
 }
