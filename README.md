@@ -18,7 +18,8 @@ This extension does not collect any data.
 | Safari (iOS)   | Not paying $120/year for a Apple Developer licence. See guide below.                       | 0.0.6   |
 
 
-## Installation (MacOS & iOS)
+## Installation (MacOS & iOS) 
+### Not working right now as safari support for Manifest V3 is lacking.
 1. Clone or Download the latest release from the [releases page](https://github.com/yuqian5/eclass-confetti/releases)
 2. Unzip the file
 3. Open Xcode and open the project in ios directory
